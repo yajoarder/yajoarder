@@ -1,5 +1,5 @@
 
-# Hi, I'm Y A Joarder 👋
+# Hi, I'm Y A Joarder 
 
 PhD candidate at Concordia University, Montreal. I work on Cybersecurity and Artificial Intelligence (AI).
 
